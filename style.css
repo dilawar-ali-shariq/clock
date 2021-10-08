@@ -21,8 +21,8 @@ html{
 
 .analog-clock{
     background-color: black;
-    height: 32rem;
-    width: 32rem;
+    height: 26rem;
+    width: 26rem;
     border-radius: 50%;
     border: 1rem solid #44444f;
     position: relative;
